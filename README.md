@@ -1,6 +1,6 @@
 # LLM-as-a-Judge 評価スクリプト
 
-LLM-as-a-JudgeとRagasフレームワークを使用した、ReActチャットボットの応答を自動評価するためのPythonスクリプトです。
+LLM-as-a-JudgeとRagasフレームワークを使用した、CyChat SDの応答を自動評価するためのPythonスクリプトです。
 
 ## 概要
 
