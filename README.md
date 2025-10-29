@@ -14,12 +14,13 @@ LLM-as-a-JudgeとRagasフレームワークを使用した、ReActチャット�
 
 ## 目次
 
-  - [Installation](#installation)
-  - [API Requirements by Program](#api-requirements-by-program)
+  - [インストール](#インストール)
+  - [プログラム別のAPI要件](#プログラム別のapi要件)
   - [Custom LLM Judge Evaluator](#custom-llm-judge-evaluator)
   - [Ragas-Based Evaluator](#ragas-based-evaluator)
   - [Format Clarity Evaluator](#format-clarity-evaluator)
-  - [Comparison: Which to Use?](#comparison-which-to-use)
+  - [エラーハンドリング](#エラーハンドリング)
+  - [パフォーマンスに関する考慮事項](#パフォーマンスに関する考慮事項)
 
 -----
 
